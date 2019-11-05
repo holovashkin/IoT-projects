@@ -43,3 +43,8 @@ Sample of tested config:
       ]
     }
 ```
+
+### To study/test
+
+Arduino Roller Curtains
+https://github.com/SergeiSOficial/CurtainsESP32
