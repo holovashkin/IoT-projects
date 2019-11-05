@@ -48,3 +48,5 @@ Sample of tested config:
 
 Arduino Roller Curtains
 > https://github.com/SergeiSOficial/CurtainsESP32
+Stepper Motor specifications 28BYJ
+> http://robotosha.ru/arduino/stepper-motor-28byj-uln2003-arduino.html
